@@ -274,10 +274,8 @@ Rather than treating TensorFlow as a black box, this project explores the mathem
 # 📂 Repository Structure
 
 ```bash
-├── notebooks/
-│   └── Regression_Networks_for_Leakage_Detection.ipynb
-├── data/
-│   └── project_1_data.csv
+├── notebook.ipynb
+├── project_1_data.csv
 └── README.md
 ```
 
