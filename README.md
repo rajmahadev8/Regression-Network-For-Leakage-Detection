@@ -1,4 +1,4 @@
-# 💧 Regression Networks for Leakage Detection using Deep Neural Networks and Explainable AI
+# Regression Networks for Leakage Detection using Deep Neural Networks and Explainable AI
 
 ## Overview
 
